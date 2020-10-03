@@ -21,3 +21,8 @@
  Can define your Api Model Properties with the help of this annotation </br >
  Example :- @ApiModelProperty(value = "user's first name", example="Abhishek")
  
+## Learn More
+
+You can learn more about the [Annotations](https://github.com/swagger-api/swagger-core/wiki/Annotations-1.5.X).
+
+Check out the [Swagger Official Documentation](http://docs.swagger.io/swagger-core/v1.5.0/apidocs/index.html).
